@@ -1,0 +1,9 @@
+// ------------------------------------------------
+// Cross browser support settings
+// ------------------------------------------------
+$lt-ie10: false !default;
+$lt-ie9: false !default;
+$media-queries: true;
+
+@import 'config';
+@import 'core';
